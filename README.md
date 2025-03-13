@@ -34,8 +34,8 @@ classDiagram
         - String description
     }
 
-    User --> Account
-    User --> Feature : has many
-    User --> Card
-    User --> News : has many
+    User *--> Account
+    User *--> Feature : has many
+    User *--> Card
+    User *--> News : has many
 ``` 
