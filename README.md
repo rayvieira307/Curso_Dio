@@ -38,4 +38,13 @@ classDiagram
     User "1"  *--> "N" Feature
     User  "1" *-->  "1" Card
     User  "1" *-->  "N" News
-``` 
+```
+
+## Testes no postman urls 
+
+Criar novo usuario
+localhost:8080/users
+
+Buscar usuario pelo id
+localhost:8080/users/id
+
