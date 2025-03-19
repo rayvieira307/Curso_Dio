@@ -19,6 +19,10 @@ public class MigrationStrategy {
 
 	private final Connection connection = null;
 
+	public MigrationStrategy(Object connection2) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public void executeMigration(){
         var originalOut = System.out;
         var originalErr = System.err;
