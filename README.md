@@ -1,6 +1,6 @@
-## Api do Santander feita durante o Curso da Dio
+## Deafios Desenvolvidos durante o curso da DIO
 
-## Diagrama de Classes
+## Diagrama de Classes Api do Santander 
 
 ```mermaid
 classDiagram
